@@ -1,17 +1,3 @@
 
-=======
-Anvarjonov Shohjahon
-Dilmurod Tuxtanazarov
-G'aniboyev Javohir
-Jamshidbek Qodirov
-Azizbek Boqiyev
-Jahongir Abdurahimov
-Tursunxon
 
--------KI--------
-1) O'rolov Nizomjon
-2) Saidazim Isroilov
-
-
-
-
+change after updating token
